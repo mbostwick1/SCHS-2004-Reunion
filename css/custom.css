@@ -1,0 +1,33 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+.btn-blue {
+	background-color: #0A3161;
+	transition-duration: 0.2s;
+}
+
+
+  
+.btn-blue:hover {
+	background-color: 	#3b5a81
+	; /* Green */
+	color: white;
+  }
+
+  .btn-red {
+	background-color: #B31942;
+	transition-duration: 0.2s;
+}
+
+
+  
+.btn-red:hover {
+	background-color: #990000
+	; /* Green */
+	color: white;
+  }
+
