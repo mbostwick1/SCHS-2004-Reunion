@@ -19,7 +19,7 @@
   }
 
   .btn-red {
-	background-color: #B31942;
+	background-color: #e60000;
 	transition-duration: 0.2s;
 }
 
@@ -31,3 +31,7 @@
 	color: white;
   }
 
+
+  .icon-color {
+	color: #0A3161;
+  }
