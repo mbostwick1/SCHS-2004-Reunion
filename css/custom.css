@@ -53,3 +53,8 @@ a:hover{
   }
 
 
+  @media only screen and (max-width: 480px) {
+   .head-text {
+        font-size: 22px; /* Smaller font size for mobile phones */
+    }
+}
