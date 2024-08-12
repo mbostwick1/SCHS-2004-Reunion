@@ -4,6 +4,13 @@
 	Add all your Custom Styled CSS here for New Styles or
 	Overwriting Default Theme Styles for Better Handling Updates
 -----------------------------------------------------------------*/
+a {
+	color:#e60000;
+}
+
+a:hover{
+	color: #990000
+}
 
 .btn-blue {
 	background-color: #0A3161;
@@ -35,3 +42,14 @@
   .icon-color {
 	color: #0A3161;
   }
+
+
+  html, body {
+	  margin: 0;
+	  padding: 0;
+	  overflow-x: hidden; /* Prevent horizontal scrolling */
+	  width: 100%;
+	  min-height: 100%; /* Ensure the page can grow vertically */
+  }
+
+
